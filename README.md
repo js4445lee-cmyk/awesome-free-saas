@@ -245,6 +245,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Tapform](https://tapform.com) - Free and unlimited forms for anything.
 
 ## Content & Experience
+- [SignalMeaning](https://signalmeaning.com/links/) - Free, no-sign-up digital cards with shareable links, QR codes, contact saving, website embeds, and profile badges.
 
 - [Eqxiu](https://store.eqxiu.com/) - A creative design platform that everyone can use
 - [Draft Design](https://www.gaoding.com/) - Make the design easier
